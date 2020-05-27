@@ -20,6 +20,11 @@ public class DashBoardUI extends javax.swing.JFrame {
     public DashBoardUI() {
         initComponents();
         this.setResizable(false);
+        loadImages();
+    }
+    
+    public void loadImages(){
+        
     }
 
     /**
